@@ -1,7 +1,3 @@
-![top_2_products_per_division_by_sold_qty](https://github.com/CalvinJohn99/AtliQ-Hardware-Financial-and-Supply-Chain-Analytics/assets/40469219/2067cb56-17d6-4b25-bc10-3b9644016aa3)
-![top_5_customers_by_forecast_accuracy_2021](https://github.com/CalvinJohn99/AtliQ-Hardware-Financial-and-Supply-Chain-Analytics/assets/40469219/4df40e9c-5025-46e1-b606-c4f80a6f2f0e)
-![top_3_customers_india_market](https://github.com/CalvinJohn99/AtliQ-Hardware-Financial-and-Supply-Chain-Analytics/assets/40469219/57d7851d-b84f-46fe-a21a-2802c7ff936b)
-![top_5_markets](https://github.com/CalvinJohn99/AtliQ-Hardware-Financial-and-Supply-Chain-Analytics/assets/40469219/e8ebe8dd-dd00-413c-88f9-10bb8f8f0d99)
 # AtliQ Hardware Financial & Supply Chain Analytics
 
 This repository shows my work performing financial and supply chain analysis using **SQL** on a dataset of over **1.4 million records** that contains information about sales of AtliQ hardware (an extension of AtliQ Technologies) products during my time as a student in the Data Analytics Bootcamp by Codebasics. <br>
