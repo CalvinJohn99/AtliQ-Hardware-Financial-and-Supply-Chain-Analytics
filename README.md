@@ -1,6 +1,6 @@
 # AtliQ Hardware Financial & Supply Chain Analytics
 
-This repository shows my work performing financial and supply chain analysis using **SQL** on a dataset of over **1.4 million records** that contains information about sales of AtliQ hardware (an extension of AtliQ Technologies) products during my time as a student in the Data Analytics Bootcamp by Codebasics. You can download the SQL database [here.](https://drive.google.com/file/d/1Z96eV3o-IBi82XBc3gOtZDnWn4o_fSd3/view?usp=sharing) <br><br>
+This repository shows my work performing financial and supply chain analysis using **SQL** on a dataset of over **1.4 million records** that contains information about sales of AtliQ hardware (an extension of AtliQ Technologies) products during my time as a student in the Data Analytics Bootcamp by Codebasics. You can download the SQL database [here.](https://drive.google.com/file/d/1Z96eV3o-IBi82XBc3gOtZDnWn4o_fSd3/view?usp=sharing) <br>
 
 The task involved creating **3 database views**, performing **joins** across **7** tables, creating **5 stored procedures**, using **Window functions** and **CTEs**. All the relevant SQL files have been uploaded.
 <br><br>
