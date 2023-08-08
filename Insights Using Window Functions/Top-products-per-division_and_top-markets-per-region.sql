@@ -8,7 +8,7 @@ with cte1 as (
 		join dim_product p
 			on p.product_code=s.product_code
 		where fiscal_year=2021
-		group by p.product), 
+		group by p.product, p.division), 
 	cte2 as (
 		select 
 			*, 
@@ -27,7 +27,7 @@ with cte1 as (
 		join dim_customer c
 		on n.customer_code=c.customer_code
 		where fiscal_year=2021
-		group by market),
+		group by market, region),
 	cte2 as (
 		select 
 			*,
