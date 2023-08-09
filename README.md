@@ -13,7 +13,7 @@ In the problem, I had to generate reports for top customers, markets, products b
 
 ## Results
 
-*Note: All the results shown here were obtained using the stored procedures and the SQL scripts in the 'Insights Using Window Functions' folder for the 2021 financial year.*
+*Note: All the results shown here were obtained using the stored procedures and the SQL scripts in the 'Insights Using Window Functions' folder for the 2021 financial year.* <br><br>
 *Note: I will let the visualisations speak for themselves here...*
 <br><br>
 
